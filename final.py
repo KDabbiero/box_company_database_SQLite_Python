@@ -329,7 +329,7 @@ def user_update_invoice_statement(conn, column):
         print(e)
 
 def main():
-    database = r"C:\Users\katel\Desktop\CSE310\Mod5\bai.db"
+    database = r"C:filelocation\bai.db"
 
     # Create the location table.
     sql_create_location_table = """ CREATE TABLE IF NOT EXISTS location (
