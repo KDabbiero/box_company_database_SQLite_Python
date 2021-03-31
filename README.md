@@ -4,6 +4,8 @@ The software that I wrote creates and interacts with a database file using the S
 
 [Software Demo Video](https://youtu.be/vnbSrJhEGUQ)
 
+![ERD](bai_db_diagram.jpg)
+
 # Relational Database
 
 The relational database that I am using is a model database for an industrial box company. It consists of four tables; location, product_dims, product, and invoice. 
