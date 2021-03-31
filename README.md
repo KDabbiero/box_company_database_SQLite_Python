@@ -4,6 +4,8 @@ The software that I wrote creates and interacts with a database file using the S
 
 [Software Demo Video](https://youtu.be/vnbSrJhEGUQ)
 
+# Entity Relationship Diagram
+
 ![ERD](bai_db_diagram.jpg)
 
 # Relational Database
